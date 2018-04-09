@@ -4,7 +4,7 @@ public class MyFirstApp {
 			System.out.println("Hello " + args[0]);
 		}
 		else{
-			System.out.println("Hello Everyone");
+			System.out.println("Hello Everyone looking at this screen");
 		}
 		MyHelper.printDate();
 	}
